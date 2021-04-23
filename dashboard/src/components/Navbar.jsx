@@ -194,7 +194,7 @@ export default function Navbar() {
       >
         <div className={classes.toolbar}>
           <IconButton onClick={handleDrawerClose}>
-            {theme.direction === 'rtl' ? <ChevronRightIcon />: <> {"Welcome, User"}<ChevronLeftIcon /></>}
+            {theme.direction === 'rtl' ? <ChevronRightIcon />: <> {"Welcome to GBL"}<ChevronLeftIcon /></>}
           </IconButton>
         </div>
         <Divider />
