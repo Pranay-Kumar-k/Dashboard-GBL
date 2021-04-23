@@ -20,8 +20,9 @@ import HelpIcon from '@material-ui/icons/Help';
 import HomeIcon from '@material-ui/icons/Home';
 import DescriptionIcon from '@material-ui/icons/Description';
 import NotificationsIcon from '@material-ui/icons/Notifications';
-import {useHistory,NavLink} from "react-router-dom";
-import { Grid } from '@material-ui/core';
+import {NavLink} from "react-router-dom";
+import SettingsIcon from '@material-ui/icons/Settings';
+import Avatar from '@material-ui/core/Avatar';
 
 const drawerWidth = 240;
 
@@ -47,7 +48,7 @@ const useStyles = makeStyles((theme) => ({
     }),
   },
   menuButton: {
-    marginRight: 36,
+    marginRight: theme.spacing(2),
     color:"gray"
   },
   hide: {
@@ -91,15 +92,19 @@ const useStyles = makeStyles((theme) => ({
   },
   content: {
     flexGrow: 1,
-    padding: theme.spacing(1),
   },
   list:{
       color:"#ffffff",
   },
-  navtool:{
-      display:"flex",
-      flexDirection:"row",
-  }
+  right:{
+    display:"flex",
+    flexDirection:"row",
+},
+  title: {
+    flex: 1,
+    fontWeight:"600",
+    color:"#0033cc",
+  },
 }));
 
 export default function Navbar() {
@@ -153,22 +158,25 @@ export default function Navbar() {
       >
         <Toolbar className={classes.navtool}>
           <IconButton
-            color="inherit"
             aria-label="open drawer"
             onClick={handleDrawerOpen}
-            edge="start"
+            edge="end"
             className={clsx(classes.menuButton, {
               [classes.hide]: open,
             })}
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h3" noWrap>
+          <Typography variant="h4" className={classes.title}>
             SHAHI
           </Typography>
-          <Grid alignItems="right" className={classes.grid}>
-              hello
-          </Grid>
+            <IconButton color="inherit">
+                <SettingsIcon style={{color:"gray"}}/>
+            </IconButton>
+            <span style={{width:"2px", background:"#cccccc", height:"40px", marginRight:"10px"}}></span>
+            <IconButton>
+                <Avatar alt="Remy Sharp" src="https://aniportalimages.s3.amazonaws.com/media/details/scarleytekkhahs.jpg"/>
+            </IconButton>
         </Toolbar>
       </AppBar>
       <Drawer
@@ -201,18 +209,7 @@ export default function Navbar() {
       </Drawer>
       <main className={classes.content}>
         <div className={classes.toolbar} />
-        <Typography paragraph>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-          ut labore et dolore magna aliqua. Rhoncus dolor purus non enim praesent elementum
-          facilisis leo vel. Risus at ultrices mi tempus imperdiet. Semper risus in hendrerit
-          gravida rutrum quisque non tellus. Convallis convallis tellus id interdum velit laoreet id
-          donec ultrices. Odio morbi quis commodo odio aenean sed adipiscing. Amet nisl suscipit
-          adipiscing bibendum est ultricies integer quis. Cursus euismod quis viverra nibh cras.
-          Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Mauris commodo quis
-          imperdiet massa tincidunt. Cras tincidunt lobortis feugiat vivamus at augue. At augue eget
-          arcu dictum varius duis at consectetur lorem. Velit sed ullamcorper morbi tincidunt. Lorem
-          donec massa sapien faucibus et molestie ac.
-        </Typography>
+        {/* <Cards /> */}
       </main>
     </div>
   );
