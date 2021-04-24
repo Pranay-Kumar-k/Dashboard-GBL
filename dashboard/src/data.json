@@ -1,7 +1,7 @@
-[{
+ [{
     "id": 1,
     "case_number": "647-15-0738",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "03/04/2021",
     "time": "2:15:17 AM",
@@ -15,7 +15,7 @@
   }, {
     "id": 2,
     "case_number": "520-87-4771",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "14/03/2021",
     "time": "1:41:26 PM",
@@ -29,7 +29,7 @@
   }, {
     "id": 3,
     "case_number": "501-41-6132",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "23/03/2021",
     "time": "6:13:17 AM",
@@ -43,7 +43,7 @@
   }, {
     "id": 4,
     "case_number": "138-28-9298",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "Call",
     "date": "21/01/2021",
     "time": "1:50:00 PM",
@@ -57,7 +57,7 @@
   }, {
     "id": 5,
     "case_number": "749-20-0053",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "02/03/2021",
     "time": "3:03:34 AM",
@@ -71,7 +71,7 @@
   }, {
     "id": 6,
     "case_number": "895-51-0810",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "06/03/2021",
     "time": "10:23:20 PM",
@@ -85,7 +85,7 @@
   }, {
     "id": 7,
     "case_number": "367-72-3895",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "07/03/2021",
     "time": "6:53:38 AM",
@@ -99,7 +99,7 @@
   }, {
     "id": 8,
     "case_number": "253-02-4088",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "21/04/2021",
     "time": "2:05:46 PM",
@@ -113,7 +113,7 @@
   }, {
     "id": 9,
     "case_number": "486-55-9457",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "31/03/2021",
     "time": "3:17:50 AM",
@@ -127,7 +127,7 @@
   }, {
     "id": 10,
     "case_number": "720-26-2879",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "10/03/2021",
     "time": "4:20:41 PM",
@@ -141,7 +141,7 @@
   }, {
     "id": 11,
     "case_number": "101-35-4409",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "11/04/2021",
     "time": "9:48:39 AM",
@@ -155,7 +155,7 @@
   }, {
     "id": 12,
     "case_number": "263-17-9733",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "18/03/2021",
     "time": "6:27:50 AM",
@@ -169,7 +169,7 @@
   }, {
     "id": 13,
     "case_number": "498-62-8560",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "22/02/2021",
     "time": "8:09:13 PM",
@@ -183,7 +183,7 @@
   }, {
     "id": 14,
     "case_number": "220-95-8632",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "18/03/2021",
     "time": "1:58:32 AM",
@@ -197,7 +197,7 @@
   }, {
     "id": 15,
     "case_number": "472-45-9044",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "19/04/2021",
     "time": "10:54:41 PM",
@@ -211,7 +211,7 @@
   }, {
     "id": 16,
     "case_number": "823-56-8581",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "06/03/2021",
     "time": "10:23:16 PM",
@@ -225,7 +225,7 @@
   }, {
     "id": 17,
     "case_number": "230-01-4736",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "07/02/2021",
     "time": "11:26:21 PM",
@@ -239,7 +239,7 @@
   }, {
     "id": 18,
     "case_number": "380-51-2521",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "Call",
     "date": "29/03/2021",
     "time": "11:18:28 PM",
@@ -253,7 +253,7 @@
   }, {
     "id": 19,
     "case_number": "630-58-0835",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "17/03/2021",
     "time": "6:46:20 AM",
@@ -267,7 +267,7 @@
   }, {
     "id": 20,
     "case_number": "723-32-6742",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "29/03/2021",
     "time": "8:03:01 PM",
@@ -281,7 +281,7 @@
   }, {
     "id": 21,
     "case_number": "409-45-3991",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "31/01/2021",
     "time": "10:22:54 PM",
@@ -295,7 +295,7 @@
   }, {
     "id": 22,
     "case_number": "732-96-3160",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "17/03/2021",
     "time": "2:10:39 AM",
@@ -309,7 +309,7 @@
   }, {
     "id": 23,
     "case_number": "229-57-9812",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "13/04/2021",
     "time": "9:26:50 PM",
@@ -323,7 +323,7 @@
   }, {
     "id": 24,
     "case_number": "673-73-4986",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "27/03/2021",
     "time": "9:47:24 PM",
@@ -337,7 +337,7 @@
   }, {
     "id": 25,
     "case_number": "205-10-0213",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "15/01/2021",
     "time": "1:31:46 AM",
@@ -351,7 +351,7 @@
   }, {
     "id": 26,
     "case_number": "403-15-1622",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "05/04/2021",
     "time": "11:08:56 AM",
@@ -365,7 +365,7 @@
   }, {
     "id": 27,
     "case_number": "155-56-5705",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "14/02/2021",
     "time": "10:19:05 PM",
@@ -379,7 +379,7 @@
   }, {
     "id": 28,
     "case_number": "275-56-8008",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "11/04/2021",
     "time": "12:09:29 PM",
@@ -393,7 +393,7 @@
   }, {
     "id": 29,
     "case_number": "222-33-8477",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "01/03/2021",
     "time": "8:36:32 PM",
@@ -407,7 +407,7 @@
   }, {
     "id": 30,
     "case_number": "544-14-7486",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "18/02/2021",
     "time": "9:30:39 PM",
@@ -421,7 +421,7 @@
   }, {
     "id": 31,
     "case_number": "100-20-6611",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "09/02/2021",
     "time": "12:17:39 PM",
@@ -435,7 +435,7 @@
   }, {
     "id": 32,
     "case_number": "532-66-5684",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "11/04/2021",
     "time": "2:38:17 PM",
@@ -449,7 +449,7 @@
   }, {
     "id": 33,
     "case_number": "753-70-4381",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "10/02/2021",
     "time": "6:43:01 AM",
@@ -463,7 +463,7 @@
   }, {
     "id": 34,
     "case_number": "603-79-3525",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "03/02/2021",
     "time": "8:29:15 PM",
@@ -477,7 +477,7 @@
   }, {
     "id": 35,
     "case_number": "374-29-7474",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "19/04/2021",
     "time": "3:04:43 PM",
@@ -491,7 +491,7 @@
   }, {
     "id": 36,
     "case_number": "857-20-1649",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "12/01/2021",
     "time": "2:40:07 AM",
@@ -505,7 +505,7 @@
   }, {
     "id": 37,
     "case_number": "787-34-7907",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "Call",
     "date": "14/04/2021",
     "time": "6:23:51 AM",
@@ -519,7 +519,7 @@
   }, {
     "id": 38,
     "case_number": "152-58-5360",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "04/03/2021",
     "time": "6:08:32 PM",
@@ -533,7 +533,7 @@
   }, {
     "id": 39,
     "case_number": "178-56-7452",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "13/01/2021",
     "time": "12:04:18 AM",
@@ -547,7 +547,7 @@
   }, {
     "id": 40,
     "case_number": "256-26-2812",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "31/03/2021",
     "time": "2:16:42 PM",
@@ -561,7 +561,7 @@
   }, {
     "id": 41,
     "case_number": "516-68-1205",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "In Person",
     "date": "15/03/2021",
     "time": "7:54:06 PM",
@@ -575,7 +575,7 @@
   }, {
     "id": 42,
     "case_number": "182-93-5422",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "21/01/2021",
     "time": "12:11:17 PM",
@@ -589,7 +589,7 @@
   }, {
     "id": 43,
     "case_number": "563-75-2711",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "14/04/2021",
     "time": "8:53:30 AM",
@@ -603,7 +603,7 @@
   }, {
     "id": 44,
     "case_number": "597-32-1237",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "08/04/2021",
     "time": "2:50:11 PM",
@@ -617,7 +617,7 @@
   }, {
     "id": 45,
     "case_number": "134-34-7267",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "02/02/2021",
     "time": "10:40:15 PM",
@@ -631,7 +631,7 @@
   }, {
     "id": 46,
     "case_number": "117-13-8992",
-    "branch": "branch 3",
+    "branch": "BRANCH 3",
     "reporting_method": "Call",
     "date": "31/03/2021",
     "time": "12:09:45 PM",
@@ -645,7 +645,7 @@
   }, {
     "id": 47,
     "case_number": "376-78-6615",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "In Person",
     "date": "23/02/2021",
     "time": "9:45:07 PM",
@@ -659,7 +659,7 @@
   }, {
     "id": 48,
     "case_number": "459-30-4900",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "19/02/2021",
     "time": "4:27:21 AM",
@@ -673,7 +673,7 @@
   }, {
     "id": 49,
     "case_number": "881-90-4043",
-    "branch": "branch 2",
+    "branch": "BRANCH 2",
     "reporting_method": "Call",
     "date": "16/04/2021",
     "time": "4:39:00 PM",
@@ -687,7 +687,7 @@
   }, {
     "id": 50,
     "case_number": "121-74-5952",
-    "branch": "branch 1",
+    "branch": "BRANCH 1",
     "reporting_method": "In Person",
     "date": "23/03/2021",
     "time": "6:48:06 PM",
@@ -699,5 +699,3 @@
     "reporter": "Tanner",
     "status": "Completed"
   }]
-  ​
-  

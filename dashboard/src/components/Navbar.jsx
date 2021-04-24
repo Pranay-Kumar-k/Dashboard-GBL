@@ -23,6 +23,7 @@ import NotificationsIcon from '@material-ui/icons/Notifications';
 import {NavLink} from "react-router-dom";
 import SettingsIcon from '@material-ui/icons/Settings';
 import Avatar from '@material-ui/core/Avatar';
+import Home from './Home';
 
 const drawerWidth = 240;
 
@@ -209,7 +210,7 @@ export default function Navbar() {
       </Drawer>
       <main className={classes.content}>
         <div className={classes.toolbar} />
-        {/* <Cards /> */}
+          <Home />
       </main>
     </div>
   );

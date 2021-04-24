@@ -9,20 +9,22 @@ import NoteAddIcon from '@material-ui/icons/NoteAdd';
 import DraftsIcon from '@material-ui/icons/Drafts';
 
 const useStyles = makeStyles({
-  root: {
-    background:"#00e6ac",
-    padding:"5%",
-    margin:"5%",
-    minWidth:320,
-    opacity:"0.8"
-  },
-  menu:{
+menu:{
     display:"flex",
     flexDirection:"row",
-    justifyContent:"space-around",
     alignItems:"center",
-    margin:"2%"
+    justifyContent:"space-evenly",
+    flexFlow:"row wrap",
+    margin:"2% 0% 2% -10%",
   },
+  root: {
+    background:"#00e6ac",
+    opacity:"0.8",
+    margin:"5%",
+    padding:"5%",
+    minWidth:300,
+    maxWidth:500,
+},
   Icon:{
     background:"#00ffbf",
     padding:"15px",
@@ -34,7 +36,7 @@ export default function Cards() {
     return (
        <Grid>
            <Grid container className={classes.menu}>
-                <Grid item xl={3} lg={3} md={4} sm={6} xs={12}>
+                <Grid item xl={2} lg={2} md={6} sm={6} xs={12}>
                     <Card className={classes.root}>
                         <CardContent>
                             <Button className={classes.Icon}>
@@ -44,7 +46,7 @@ export default function Cards() {
                         <Button variant="contained" size="medium" style={{background:"white",color:"#00e6ac",fontWeight:"bold"}}>Case Upload</Button>
                     </Card>
                 </Grid>
-                <Grid item xl={3} lg={3} md={4} sm={6} xs={12}>
+                <Grid item xl={2} lg={2} md={6} sm={6} xs={12}>
                     <Card className={classes.root} style={{background:"#1a53ff"}}>
                         <CardContent>
                             <Button className={classes.Icon} style={{background:"#4d79ff"}}>
@@ -54,7 +56,7 @@ export default function Cards() {
                         <Button variant="contained" size="medium" style={{background:"white",color:"#1a53ff",fontWeight:"bold"}}>Generate Report</Button>
                     </Card>
                 </Grid>
-                <Grid item xl={3} lg={3} md={4} sm={6} xs={12}>
+                <Grid item xl={2} lg={2} md={6} sm={6} xs={12}>
                     <Card className={classes.root} style={{background:"#ff8533"}}>
                         <CardContent>
                             <Button className={classes.Icon} style={{background:"#ffa366"}}>
